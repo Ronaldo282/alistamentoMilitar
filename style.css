@@ -1,0 +1,37 @@
+body{
+    background-image: url(assets/fundo.jpg);
+    color: white;
+    text-align: center;
+    
+}p{
+    font-size: 2em;
+}#button{
+    background-color: rgba(3, 59, 15, 0.712);
+    color:white;
+    padding: 5px;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 5px;
+    font-size: 22px;
+    cursor: pointer;
+}#button:hover{
+    background-color: gray;
+}form{
+    background-color:rgba(3, 59, 15, 0.712);
+    padding: 20px;
+    width: 1000px;
+    height: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}.center{
+    background-color: rgb(2, 56, 2);
+}.marginPerson{
+    margin:auto;
+}.cor{
+    color: white;
+}#logo{
+    width: 50px;
+    height: 60px;
+}
